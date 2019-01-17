@@ -60,6 +60,7 @@ Woot! It worked. You just wrote your first Javascript outside of the browser. No
 After you type in `nodejs index.js` you get something looks like:
 
 ```
+
 module.js:471                                                                                                                 
     throw err;                                                                                                                
     ^                                                                                                                         
